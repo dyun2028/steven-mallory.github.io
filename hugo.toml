@@ -1,5 +1,32 @@
-baseURL = 'https://steven-mallory.github.io'
+baseURL = 'https://steven-mallory.github.io/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme = 'ananke'
+title = 'Daniel Yun'
+theme = 'PaperMod'
 
+[params]
+  description = 'Personal site of Daniel Yun'
+  defaultTheme = 'auto'
+  ShowReadingTime = false
+  ShowShareButtons = false
+
+  [params.homeInfoParams]
+    Title = "Hi, I'm Daniel"
+    Content = 'Welcome to my personal site. Use the menu above to learn more about me or see my projects.'
+
+[menus]
+  [[menus.main]]
+    name = 'Home'
+    pageRef = '/'
+    weight = 10
+  [[menus.main]]
+    name = 'About'
+    pageRef = '/about'
+    weight = 20
+  [[menus.main]]
+    name = 'Resume'
+    pageRef = '/resume'
+    weight = 30
+  [[menus.main]]
+    name = 'Projects'
+    pageRef = '/projects'
+    weight = 40
