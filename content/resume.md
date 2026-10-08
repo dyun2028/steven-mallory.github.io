@@ -3,7 +3,7 @@ title = 'Resume'
 draft = false
 +++
 
-[daniel.yun2028@gmail.com](mailto:daniel.yun2028@gmail.com) · [LinkedIn](https://linkedin.com/in/daniel-yun-9b96b3397) · [GitHub](https://github.com/steven-mallory)
+[daniel.yun2028@gmail.com](mailto:daniel.yun2028@gmail.com) · [LinkedIn](https://linkedin.com/in/danielyun2028) · [GitHub](https://github.com/dyun2028)
 
 ## Education
 
