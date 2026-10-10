@@ -7,7 +7,7 @@ draft = false
 
 ## Education
 
-**University of Illinois Urbana-Champaign** — B.S. in Applied Mathematics (Computer Science Intended), Aug. 2025 – May 2028. GPA: 4.0/4.0
+**University of Illinois Urbana-Champaign** — B.S. in Mathematics (Aug. 2025 – May 2028. GPA: 4.0/4.0
 
 ## Experience
 
