@@ -30,3 +30,7 @@ theme = 'PaperMod'
     name = 'Projects'
     pageRef = '/projects'
     weight = 40
+  [[menus.main]]
+    name = 'Imageboard'
+    url = '/imageboard/'
+    weight = 50
