@@ -31,6 +31,10 @@ theme = 'PaperMod'
     pageRef = '/projects'
     weight = 40
   [[menus.main]]
+    name = 'Practice'
+    url = '/quant-trainer/'
+    weight = 50
+  [[menus.main]]
     name = 'Imageboard'
     url = '/imageboard/'
-    weight = 50
+    weight = 60
