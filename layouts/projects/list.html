@@ -1,0 +1,24 @@
+{{- define "main" }}
+<header class="page-header">
+  {{- partial "breadcrumbs.html" . }}
+  <h1>{{ .Title }}</h1>
+</header>
+
+{{- if .Content }}
+<div class="post-content md-content">{{ .Content }}</div>
+{{- end }}
+
+{{- $regular := slice }}
+{{- $ai := slice }}
+{{- range .RegularPages }}
+  {{- if .Params.aiassisted }}{{ $ai = $ai | append . }}{{ else }}{{ $regular = $regular | append . }}{{ end }}
+{{- end }}
+
+{{- range $regular }}{{ partial "project-entry.html" . }}{{ end }}
+
+{{- if $ai }}
+<h2 class="projects-group">AI Assisted Projects</h2>
+<p class="projects-group-note">Projects built with the help of AI coding tools.</p>
+{{- range $ai }}{{ partial "project-entry.html" . }}{{ end }}
+{{- end }}
+{{- end }}

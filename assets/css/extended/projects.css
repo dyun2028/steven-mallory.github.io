@@ -1,0 +1,10 @@
+.projects-group {
+  margin: 2.5rem 0 0.3rem;
+  padding-bottom: 0.4rem;
+  border-bottom: 1px solid var(--border);
+}
+.projects-group-note {
+  margin: 0 0 1rem;
+  color: var(--secondary);
+  font-size: 0.9rem;
+}

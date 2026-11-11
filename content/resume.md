@@ -22,14 +22,12 @@ draft = false
 ## Projects
 
 - **TCP Server with concurrent jobs** (C, Linux systems), Sept. 2026 – present: TCP endpoint communication with POSIX sockets, building a small UNIX library.
-- **Imageboard Site** (Flask, Nginx, Gunicorn, SQLite, DuckDNS), Apr. – June 2026: a full-stack, self-hosted imageboard with boards, image uploads and thumbnails. Live at [danielchan.duckdns.org](http://danielchan.duckdns.org).
-- **Deviant Art Downloader** (Python, Flask), June – July 2025: an image downloader using DeviantArt's API with OAuth 2.0.
-- **Incredibly Simple SDL** (C++, SDL), Jan. – June 2022: 2D rendering with C++ and SDL, and direct memory management.
+- **Imageboard Site** (Flask, Nginx, Gunicorn, SQLite, Supabase), Apr. – June 2026: a full-stack imageboard with boards, image uploads and thumbnails, later ported to [danielyun.dev/imageboard/](https://danielyun.dev/imageboard/) using Supabase.
 
 ## Skills
 
 - **Languages:** C, C++, Python, SQL, HTML/CSS
-- **Frameworks & libraries:** Flask, pthreads, POSIX sockets, SDL, Swiper
+- **Frameworks & libraries:** Flask, pthreads, POSIX sockets, Swiper
 - **Tools:** Git, Docker, Nginx, Gunicorn, SQLite, Vim, VS Code, Visual Studio, Debian
 
 ## Coursework
