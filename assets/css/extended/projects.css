@@ -8,3 +8,9 @@
   color: var(--secondary);
   font-size: 0.9rem;
 }
+
+/* Home intro: don't reserve a tall block around the greeting */
+.first-entry {
+    min-height: 0;
+    margin-bottom: 24px;
+}
