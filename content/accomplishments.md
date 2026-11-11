@@ -1,6 +1,6 @@
 +++
 title = 'Accomplishments'
-draft = false
+draft = true
 +++
 
 ## Accomplishment 1
