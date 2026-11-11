@@ -24,3 +24,5 @@ I used to play a lot of games. I played clash of clans, clash royale, pixel gun 
 ![Me brushing my teeth](/images/about2.webp)
 
 ![Me walking past a bike on a cobblestone street](/images/about3.webp)
+
+![aura.](/images/aura.jpg)
